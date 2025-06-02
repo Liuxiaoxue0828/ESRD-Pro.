@@ -1,0 +1,2 @@
+The .xlsx file is the original dataset, and the .pzfx file is the process of drawing the relevant graphs using Graphpad. HDL3C-code works basically for metagenome data analysis and further correlation analysis between phenotypes and taxonomic features of interest:
+metagenome_taxonomy.sh is a shell pipeline for processing raw sequencing data and generating a whole abundance file in .mpa format. generate_phenotype_correlation.R is a R script using microeco to calculate metagenome related statistical analysis.
